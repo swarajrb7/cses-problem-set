@@ -1,0 +1,1 @@
+{"name":"Local: finding_borders","url":"d:\\Study Material\\Competitive Programming\\CSES\\String\\finding_borders.cpp","tests":[{"id":1681305425282,"input":"abcababcab","output":"2 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Study Material\\Competitive Programming\\CSES\\String\\finding_borders.cpp","group":"local","local":true}

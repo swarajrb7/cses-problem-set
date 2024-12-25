@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "ostream": "cpp",
+        "scoped_allocator": "cpp",
+        "functional": "cpp"
+    },
+    "cph.general.onceMaintainerMessage": false
+}
